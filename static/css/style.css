@@ -1,0 +1,38 @@
+body {
+    background: #f6f8fb;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+.card {
+    border-radius: 14px;
+    border: none;
+}
+
+img {
+    max-height: 400px;
+    object-fit: contain;
+}
+
+.table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.btn-primary {
+    background: #3b82f6;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #2563eb;
+}
+
+.badge {
+    font-size: 14px;
+    padding: 8px 12px;
+}
